@@ -18,6 +18,6 @@ Systems Engineer and Business Administrator. I analyse business processes, turn 
 
 ### Toolbox
 
-`Business process analysis` `Windows Server` `Linux` `JavaScript` `Node.js` `PHP` `HTML & CSS` `Git`
+`Business process analysis` `JavaScript` `Node.js` `PHP` `HTML & CSS` `Git`
 
 <sub>🇨🇴 Spanish (native) · 🇦🇺 English (professional)</sub>
