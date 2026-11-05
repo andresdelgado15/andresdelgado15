@@ -18,6 +18,6 @@ Systems Engineer and Business Administrator. I analyse business processes and tu
 
 ### Toolbox
 
-`Google Workspace` `Windows Server` `Linux` `AWS` `Azure` `ERP & CRM` `Dashboards` `JavaScript` `Node.js` `PHP` `HTML & CSS` `Git`
+`Business process analysis` `Windows Server` `Linux` `JavaScript` `Node.js` `PHP` `HTML & CSS` `Git`
 
 <sub>🇨🇴 Spanish (native) · 🇦🇺 English (professional)</sub>
