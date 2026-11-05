@@ -2,7 +2,7 @@
 
 **ICT Solutions Analyst · IT Systems & Operations** — Melbourne, VIC
 
-Systems Engineer and Business Administrator. I analyse business processes and turn them into practical technology: ERP and CRM integration, performance dashboards, cloud and Google Workspace administration, and reliable day-to-day IT operations.
+Systems Engineer and Business Administrator. I analyse business processes, turn them into practical technology and keep day-to-day IT operations reliable for office and field teams.
 
 - 💼 ICT Solutions Analyst at **Clad Craft Pty Ltd**
 - 🎓 Master's degree in Software Engineering & Cloud Computing — Torrens University Australia
