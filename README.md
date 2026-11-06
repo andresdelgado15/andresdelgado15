@@ -8,7 +8,7 @@ Systems Engineer and Business Administrator. I analyse business processes, turn 
 - 📊 Currently learning **Data Engineering** (SQL, Python, AWS) — building in public
 - 🎓 Master's degree in Software Engineering & Cloud Computing — Torrens University Australia
 - 🌐 CV & portfolio: **[andresdelgado15.github.io/CV](https://andresdelgado15.github.io/CV/)**
-- 📫 [andresd.7878@gmail.com](mailto:andresd.7878@gmail.com) · [LinkedIn](https://www.linkedin.com/in/edgar-andr%C3%A9s-delgado-castellano-8a14a2150/)
+- 📫 [andresd.7878@gmail.com](mailto:andresd.7878@gmail.com) · [LinkedIn](https://www.linkedin.com/in/edgar-andres-delgado-castellano-27a4262a2/)
 
 ### Featured work
 
